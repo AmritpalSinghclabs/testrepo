@@ -9,7 +9,8 @@ public class MainActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
-		//Added Feature
+		//Added Feature 1
+		//Feature 2
 	}
 
 }
